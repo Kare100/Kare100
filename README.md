@@ -13,13 +13,14 @@ I'm a Software Engineering student at USIU-Africa, interested in building techno
 
 ### 🚀 Featured Projects
 
+- 🌱 [AgriSmart Kenya](https://github.com/Kare100/agrismart-kenya) — Bilingual (English/Swahili) app that diagnoses crop diseases from a leaf photo, built for Kenyan smallholder farmers
 - 📋 [PhotoMed Request Tracker](https://github.com/Kare100/photomed-request-tracker) — A request management application
 - 🤖 [Sentiment Analysis](https://github.com/Kare100/sentiment-analysis) — NLP classification with a Flask API
 - 📈 [Stock Trading Agent](https://github.com/Kare100/stock-trading-agent) — Exploring reinforcement learning
-- 💪 [FemFit](https://github.com/Kare100/femfit-app) — A wellness tracking mobile app
+- 💪 [FemFit](https://github.com/Kare100/femfit-app) — A wellness tracking mobile app ([try the web version](https://femfit-web.vercel.app))
 
 ### 🤝 Let's Connect
 
-[GitHub](https://github.com/Kare100) · [LinkedIn](linkedin.com/in/valeriemwangi)
+[GitHub](https://github.com/Kare100) · [LinkedIn](https://www.linkedin.com/in/valeriemwangi)
 
 *Building, breaking, learning, repeating. It's a feature at this point.* 💻
